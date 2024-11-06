@@ -10,7 +10,7 @@ num = 123;
 alert(num);
 
 // 14 задача
-let a = 1;
+let o = 1;
 let b = 2;
 let c = 3;
 
@@ -20,3 +20,11 @@ let e, i, k;
 e = 7;
 i = 8;
 k = 9;
+
+// 15 задача
+let a;
+a = 10;
+alert(a);
+
+a = 20;
+alert(a);
