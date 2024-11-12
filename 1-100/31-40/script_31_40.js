@@ -9,3 +9,7 @@ let str_32 = `a
 b
 c`;
 alert(str_32);
+
+// 34 задача
+let a_34;
+alert(a_34);
