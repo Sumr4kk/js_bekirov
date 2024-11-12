@@ -59,3 +59,8 @@ alert(Number('2') + Number('3')); // выведет 5
 alert(2 + Number('3')); // веведет 5
 
 alert('2' + Number('3')); // выведет 23
+
+// 45 задача
+let a_45 = +'2';
+let b_45 = +'3';
+alert(a_45 + b_45);
