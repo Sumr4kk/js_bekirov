@@ -51,3 +51,10 @@ alert(a_27_4); // выведет 24
 
 let a_27_5 = 3 * 2 ** 3 * 3;
 alert(a_27_5); // выведет 72
+
+// 28 задача
+let name = 'Alim';
+let surname = 'Bekirov';
+alert(name);
+alert(surname);
+
