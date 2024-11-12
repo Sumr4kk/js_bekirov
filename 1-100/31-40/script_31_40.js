@@ -13,3 +13,7 @@ alert(str_32);
 // 34 задача
 let a_34;
 alert(a_34);
+
+// 35 задача
+let a_35 = null;
+alert(a_35);
