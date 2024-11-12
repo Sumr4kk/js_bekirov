@@ -58,3 +58,14 @@ let surname = 'Bekirov';
 alert(name);
 alert(surname);
 
+// 29 задача
+let str = '!!!';
+alert(str);
+
+let java = 'java';
+let script = 'script';
+alert(java + script);
+
+let hello = 'hello';
+let world = 'world';
+alert(hello + ' ' + world);
