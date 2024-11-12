@@ -69,3 +69,7 @@ alert(java + script);
 let hello = 'hello';
 let world = 'world';
 alert(hello + ' ' + world);
+
+// 30 задача
+let string = 'Hi, guys';
+alert(string.length);
