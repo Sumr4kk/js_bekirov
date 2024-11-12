@@ -17,3 +17,9 @@ alert(a_34);
 // 35 задача
 let a_35 = null;
 alert(a_35);
+
+// 36 задача
+let first = true;
+let second = false;
+alert(first);
+alert(second);
