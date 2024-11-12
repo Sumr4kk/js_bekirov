@@ -23,3 +23,7 @@ let first = true;
 let second = false;
 alert(first);
 alert(second);
+
+// 37 задача
+let firstString = 'Hi', secondString = 'friend';
+alert(firstString * secondString);
