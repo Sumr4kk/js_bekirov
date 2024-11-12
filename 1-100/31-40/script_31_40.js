@@ -27,3 +27,7 @@ alert(second);
 // 37 задача
 let firstString = 'Hi', secondString = 'friend';
 alert(firstString * secondString);
+
+// 38 задача
+alert(10 / 0);
+alert(-10 / 0);
