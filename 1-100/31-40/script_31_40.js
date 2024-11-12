@@ -31,3 +31,10 @@ alert(firstString * secondString);
 // 38 задача
 alert(10 / 0);
 alert(-10 / 0);
+
+// 39 задача
+let num = 432;
+console.log(num);
+
+let num1 = 1, num2 = 2, num3 = 3;
+console.log(num1, num2, num3);
