@@ -64,3 +64,12 @@ alert('2' + Number('3')); // выведет 23
 let a_45 = +'2';
 let b_45 = +'3';
 alert(a_45 + b_45);
+
+// 46 задача
+let px1 = '5px', px2 = '6px';
+let result1 = parseInt(px1) + parseInt(px2);
+alert(result1);
+
+let px3 = '5.5px', px4 = '6.25px';
+let result2 = parseFloat(px3) + parseFloat(px4);
+alert(result2 + 'px');
