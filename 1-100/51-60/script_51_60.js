@@ -71,3 +71,11 @@ alert(str1);
 
 let num = 2;
 alert(str[num]);
+
+// 54 задача
+let string = 'hello';
+alert(string[str.length-1]);
+
+alert(string[str.length-2]);
+
+alert(string[str.length-3]);
