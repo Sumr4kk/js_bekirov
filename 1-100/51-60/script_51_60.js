@@ -61,3 +61,13 @@ alert(test_51_20); // выведет true
 
 let test_51_21 = Boolean(1 / 0);
 alert(test_51_21); // выведет true
+
+// 52 задание
+let str = 'abcde';
+alert(str[0] + ' ' + str[2] + ' ' + str[4]);
+
+let str1 = str[4]+str[3]+str[2]+str[1]+str[0];
+alert(str1);
+
+let num = 2;
+alert(str[num]);
