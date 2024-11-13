@@ -77,3 +77,10 @@ alert(result2 + 'px');
 // 48 задача
 let first = 8, second = 15;
 alert(String(first) + String(second));
+
+// 49 задание
+let num = 77;
+alert(String(num).length);
+
+let num1 = 12, num2 = 90;
+alert(String(num1).length + String(num2).length);
