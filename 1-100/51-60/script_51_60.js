@@ -117,3 +117,42 @@ num_59++;
 num_59++;
 num_59--;
 alert(num_59);
+
+// 60 задача
+let num_60_1 = 3;
+alert(++num_60_1); // выведет 4
+
+let num_60_2 = 3;
+alert(num_60_2++); // выведет 3
+
+let num_60_3 = 3;
+alert(--num_60_3); // выведет 2
+
+let num_60_4 = 3;
+alert(num_60_4--); // выведет 3
+
+let num_60_5_1 = 3;
+let num_60_5_2 = ++num_60_5_1;
+alert(num_60_5_1);
+alert(num_60_5_2); // выведет 4
+
+let num_60_6_1 = 3;
+let num_60_6_2 = num_60_6_1++;
+alert(num_60_6_1);
+alert(num_60_6_2); // выведет 3
+
+let num_60_7_1 = 3;
+let num_60_7_2 = --num_60_7_1;
+alert(num_60_7_1);
+alert(num_60_7_2); // выведет 2
+
+let num_60_8_1 = 3;
+let num_60_8_2 = num_60_8_1--;
+alert(num_60_8_1);
+alert(num_60_8_2); // выведет 3
+
+let num_60_9_1 = 3;
+num_60_9_1++;
+let num_60_9_2 = num_60_9_1--;
+alert(num_60_9_1++);
+alert(--num_60_9_2); // выведет 3
