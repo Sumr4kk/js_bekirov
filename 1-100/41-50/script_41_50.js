@@ -73,3 +73,7 @@ alert(result1);
 let px3 = '5.5px', px4 = '6.25px';
 let result2 = parseFloat(px3) + parseFloat(px4);
 alert(result2 + 'px');
+
+// 48 задача
+let first = 8, second = 15;
+alert(String(first) + String(second));
