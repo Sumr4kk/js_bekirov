@@ -79,3 +79,7 @@ alert(string[str.length-1]);
 alert(string[str.length-2]);
 
 alert(string[str.length-3]);
+
+// 55 задача
+let str_55 = '12345';
+alert(Number(str_55[0]) + Number(str_55[1]) + Number(str_55[2]) + Number(str_55[3]) + Number(str_55[4])); 
