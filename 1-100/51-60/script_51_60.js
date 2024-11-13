@@ -91,3 +91,14 @@ alert(Number(num_56[0]) + Number(num_56[1]) + Number(num_56[2]) + Number(num_56[
 alert(Number(num_56[0]) * Number(num_56[1]) * Number(num_56[2]) * Number(num_56[3]) * Number(num_56[4]));
 
 alert(num_56[4] + num_56[3] + num_56[2] + num_56[1] + num_56[0]);
+
+// 57 задача
+let num_57_1 = 1;
+num_57_1 = num_57_1 + 1;
+num_57_1 = num_57_1 + 1;
+alert(num_57_1); // выведет 3
+
+let num_57_2 = 1;
+num_57_2 = num_57_2 + 2;
+num_57_2 = num_57_2 + 3;
+alert(num_57_2); // выведет 6
