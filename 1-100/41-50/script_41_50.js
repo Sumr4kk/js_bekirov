@@ -84,3 +84,18 @@ alert(String(num).length);
 
 let num1 = 12, num2 = 90;
 alert(String(num1).length + String(num2).length);
+
+// 50 задание
+alert(true + 3); // выведет 4
+
+alert(true + true); // выведет 2
+
+alert(true - true); // выведет 0
+
+alert(true + false); // выведет 1
+
+alert('1' + true); // выведет 1true
+
+alert( String(true) + 1 ); // выведет true1
+
+alert( String(true) + Number(true) ); // выведет true1
