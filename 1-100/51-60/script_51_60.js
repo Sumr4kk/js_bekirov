@@ -82,4 +82,12 @@ alert(string[str.length-3]);
 
 // 55 задача
 let str_55 = '12345';
-alert(Number(str_55[0]) + Number(str_55[1]) + Number(str_55[2]) + Number(str_55[3]) + Number(str_55[4])); 
+alert(Number(str_55[0]) + Number(str_55[1]) + Number(str_55[2]) + Number(str_55[3]) + Number(str_55[4]));
+
+// 56 задача
+let num_56 = String(12345);
+alert(Number(num_56[0]) + Number(num_56[1]) + Number(num_56[2]) + Number(num_56[3]) + Number(num_56[4]));
+
+alert(Number(num_56[0]) * Number(num_56[1]) * Number(num_56[2]) * Number(num_56[3]) * Number(num_56[4]));
+
+alert(num_56[4] + num_56[3] + num_56[2] + num_56[1] + num_56[0]);
